@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @petch-nathanicha
-- 👀 I’m interested in Software Developer.
-- 🌱 I’m currently study at BUU University - ITDI
+- 🌱 Bachelor's degree in Information Technology for Digital Industry (ITDI) from Burapha University.
 
 
 Thank you for watch my work <3
